@@ -24,7 +24,7 @@
             "schema": {
               "type": "string"
             },
-            "example": "5481af0af78c4e8f9eb00817242005"
+            "example": "ENTER KEY HERE"
           },
           {
             "name": "q",
